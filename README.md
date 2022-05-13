@@ -30,7 +30,7 @@ Utilizei como base as aulas e códigos demostrados em aulas do video do canal Ra
 
 
 
-📌 Link do projeto no github Pages: https://williamfirmino92.github.io/05.Projeto-JOGO-BHS-WF-/
+📌 Link do projeto no github Pages: https://williamfirmino92.github.io/06.Projeto-Balle-Bot-WF--/
  
 
 
